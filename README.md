@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DreamchvserX
 - 👀 I’m interested in Coding, Sports and Design
-- 🌱 I’m currently learning C#, C++ and JavaScript
+- 🌱 I’m currently learning C#, Java and JavaScript
 - 💞️ I’m looking to collaborate on anything that can help me develop my skills
 - 📫 How to reach me : justinoamen@icloud.com
 
